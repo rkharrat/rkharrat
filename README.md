@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @rkharrat
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+rkharrat/rkharrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi,
+my name is Raouf Kharrat. I am a Softwaredeveloper since more than 25 years. I live in Germany. I am very happy to be here
+and I am looking for interesting projects to be part of developper who share thei expertise  
